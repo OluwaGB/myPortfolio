@@ -1,0 +1,16 @@
+body {
+    font-size: 15pt;
+}
+button{
+  background-color:dodgerblue;
+  color:white;
+  border:none;
+  border-color:none;
+  border-radius:none;
+  padding:10px;
+  font-family: verdana;
+}
+input{
+  
+  padding:5px;
+}
