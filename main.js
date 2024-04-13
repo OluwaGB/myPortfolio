@@ -15,8 +15,8 @@ computer.value=number;
 playBtn.onclick=number;
 function info(){
 if(myGuess===computer.value){
-  console.log("correct")}
-  else{console.log('wrong');
+  alert("correct")}
+  else{alert('wrong');
 }
   
 }
